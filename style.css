@@ -1,0 +1,80 @@
+body{
+padding: 0%;
+margin: 0%;
+background-color: whitesmoke;
+}
+.container{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.head-side{
+  font-weight: 700;
+  background-color: rgb(183, 255, 183);
+
+}
+.beginning-side{
+   background-color: rgb(183, 255, 183);
+   padding: 60px;
+}
+.cmn-btn{
+    border: none;
+    border-radius: 10px;
+    padding: 8px 25px;
+    background-color: rgb(87, 163, 64);
+    color: honeydew;
+}
+.misc img{
+  width: 80px;
+}
+.card h5{
+ 
+    font-weight: 700;
+    color: indigo;
+}
+.card p{
+    font-weight: 700;
+    color: gray;
+}
+.m1, .m3{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 3px gray;
+    background-color: rgb(247, 255, 239);
+}
+.m2,.m4{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 3px gray;
+}
+.m1, .m3, .m2, .m4, img{
+    align-items: center;
+    margin-top: 50px;
+}
+.titlepad h5{
+    color: indigo;
+    font-weight: 700;
+    font-size: xx-large;
+    text-align: center;
+}
+.col-md-4 ,.c1, .c2, .c3{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 3px gray;
+}
+.testimonial img{
+    width: 10px;
+}
+.footer{
+    background-color: rgb(40, 1, 66);
+    color: white;
+    padding: 100px;
+}
+ul{
+    list-style: none;
+    font-weight: 700;
+}
+footer{
+    text-align: center;
+    background-color: rgb(40, 1, 66);
+    color: white;
+}
