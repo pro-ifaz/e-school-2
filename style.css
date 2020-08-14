@@ -56,7 +56,7 @@ background-color: whitesmoke;
     font-size: xx-large;
     text-align: center;
 }
-.col-md-4 ,.c1, .c2, .c3{
+.courses .c1, .c2, .c3{
     border: none;
     border-radius: 10px;
     box-shadow: 5px 5px 3px gray;
